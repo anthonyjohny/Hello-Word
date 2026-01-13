@@ -1,3 +1,4 @@
 # Sistema de Multa!
-Meu primeiro sistema no Github.☺️
+Meu primeiro sistema no Github.
+
 
